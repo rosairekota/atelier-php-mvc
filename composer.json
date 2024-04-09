@@ -1,0 +1,18 @@
+{
+    "name": "rosai/medications-vanilla-php",
+    "description": "api-medications",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phalcon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rkota",
+            "email": "rosairekota@anicns.gouv.cd"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
